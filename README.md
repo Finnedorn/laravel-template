@@ -16,6 +16,8 @@ composer create-project --prefer-dist laravel/laravel:^9.2 your_project_name_her
 ```
 
 open folder
+or cd your project name
+and code . -r
 
 ```
 php artisan serve
@@ -67,7 +69,7 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/giuliabaratella/ NOME PROGETTO
+git remote add origin https://github.com/Finnedorn/laravel-template.git
 git push -u origin main
 
 ```
